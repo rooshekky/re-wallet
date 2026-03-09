@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+web3
+eth-account
+python-telegram-bot==20.3
+psycopg2-binary
+sqlalchemy
+python-dotenv
